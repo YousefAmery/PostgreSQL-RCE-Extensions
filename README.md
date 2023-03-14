@@ -19,7 +19,7 @@ The script uses large objects in PostgreSQL to upload binary files to a server.
 
 
 
-## Resorces
+## References
 Preparing Visual Studio for compiling DLLs might be a little tricky, but you can check  these to help you:
 [Here](https://www.2ndquadrant.com/en/blog/compiling-postgresql-extensions-visual-studio-windows/), [Here](https://learn.microsoft.com/en-us/cpp/build/walkthrough-creating-and-using-a-dynamic-link-library-cpp?view=msvc-170#to-add-the-dll-import-library-to-your-project), [Here](https://learn.microsoft.com/en-us/visualstudio/sharepoint/how-to-add-a-resource-file?view=vs-2022), [Here](https://stackoverflow.com/questions/6769760/how-do-files-get-into-the-external-dependencies-in-visual-studio-c), and [Here](https://blog.conan.io/2021/02/10/Dependencies-Visual-Studio-C++-property-files.html).
 
