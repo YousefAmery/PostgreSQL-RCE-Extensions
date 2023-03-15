@@ -9,7 +9,7 @@ SELECT test("cmd /c  whoami");
 
 The function doesn't return anything, so you have to get creative on how to find the command output. (Ex: redirect it to a file, etc...)
 
-You can find a full walkthrough using this script for achieving RCE on my Medium post: [Emotional Rollercoaster: A Unique Case Study of Bypassing Antivirus and Firewall by Abusing PostgreSQL](https://medium.com/@yousefamery).
+You can find a full walkthrough using this script for achieving RCE on my Medium post: [Emotional Rollercoaster: A Unique Case Study of Bypassing Antivirus and Firewall by Abusing PostgreSQL](https://medium.com/@yousefamery/emotional-rollercoaster-a-unique-case-study-of-bypassing-antivirus-and-firewall-by-abusing-2b36d8f6553c).
 
 
 ## script.py
